@@ -11,3 +11,4 @@ Principais Funcionalidades:
 - Portfólio com projetos finalizados e em andamento;
 - Página "Trabalhe Conosco" para envio de interesse em participar da equipe;
 - Área administrativa do sistema.
+Limk do Figma: https://www.figma.com/design/pMuvA6RunxZMID9YLtPY7l/Trabalho-web?node-id=0-1&t=f1RFWjMaqCFffXub-1
